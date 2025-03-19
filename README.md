@@ -2,6 +2,7 @@
   
 -🚀 About Me 
 I am a passionate **AI Data Engineer** with a strong interest in **Machine Learning, Data Science, and Automation**. I specialize in **data analytics, predictive modeling, and AI-driven solutions**.
+
 -🔍 Interests
   Artificial Intelligence & Machine Learning  
   Data Science & Predictive Analytics  
